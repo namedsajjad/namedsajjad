@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sajad</h1>
-<h3 align="center">CS Student</h3>
-
 - 📫 How to reach me **mhmdsajadno@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
