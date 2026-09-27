@@ -15,14 +15,15 @@
       "config": {
         "langsLayout": "bars",
         "showPercentage": true,
-        "hideBorder": true,
+        "hideBorder": false,
         "showTitle": true,
         "animationType": "slide-up",
         "animationPreviewKey": 5,
         "hideDecorations": true,
         "hideLangsArr": [],
         "hideLangs": "",
-        "langsCount": 6
+        "langsCount": 6,
+        "borderColor": "#0d1117"
       },
       "locked": false,
       "visible": true,
@@ -52,10 +53,11 @@
         ],
         "theme": "dark",
         "perLine": 4,
-        "hideBorder": true,
+        "hideBorder": false,
         "showTitle": false,
         "animationType": "slide-up",
-        "animationPreviewKey": 3
+        "animationPreviewKey": 3,
+        "borderColor": "#0d1117"
       },
       "locked": false,
       "visible": true,
@@ -78,7 +80,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790533332301_7hrxp",
-    "updatedAt": "2026-09-27T18:22:14.611Z"
+    "revision": "rev_1790533388909_f8isb",
+    "updatedAt": "2026-09-27T18:23:10.755Z"
   }
 }
